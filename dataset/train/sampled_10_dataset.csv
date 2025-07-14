@@ -1,0 +1,11 @@
+pth,file_name,domain,split
+dataset/train/face/a2r/portrait-of-kusov-aleksey-ivanovich-1809,portrait-of-kusov-aleksey-ivanovich-1809,art,train
+dataset/train/face/a2r/three-smiles-baby-1883,three-smiles-baby-1883,art,val
+dataset/train/face/r2a/ffhq_11870,ffhq_11870,photo,test
+dataset/train/face/r2a/ffhq_12336,ffhq_12336,photo,train
+dataset/train/horse/a2r/11544,11544,art,val
+dataset/train/horse/a2r/124789,124789,art,test
+dataset/train/landscape/a2r/103016,103016,art,train
+dataset/train/landscape/a2r/105940,105940,art,val
+dataset/train/landscape/r2a/0000044,0000044,photo,test
+dataset/train/landscape/r2a/0001961,0001961,photo,train
